@@ -1,0 +1,28 @@
+{
+  "name": "herit-trust-contracts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "hardhat test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "dotenv": "^16.6.1",
+    "hardhat": "^2.19.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "cors": "^2.8.5",
+    "ethers": "^6.16.0",
+    "express": "^5.2.1",
+    "mongoose": "^9.1.2",
+    "multer": "^2.0.2"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "description": ""
+}
